@@ -1,16 +1,16 @@
-# Proyecto_Sure_Tomorrow_seguros
+# Customer Similarity, Purchase probability, and Data Protection through machine learning
 
-## Objetivo
-La compañía de seguros Sure Tomorrow quiere resolver varias tareas con la ayuda de machine learning y solicita que se evalúe esa posibilidad.
+## Objective
+The insurance company Sure Tomorrow wants to solve several tasks with the help of machine learning and requests that this possibility be evaluated.
 
+Task 1: Find customers who are similar to a given customer. This will help the company's agents with marketing.
 
-Tarea 1: encontrar clientes que sean similares a un cliente determinado. Esto ayudará a los agentes de la compañía con el marketing.
+Task 2: Predict whether a new customer is likely to receive an insurance benefit. Can a trained prediction model perform better than an untrained dummy model? Can it perform worse? Explain your answer.
 
-Tarea 2: predecir si es probable que un nuevo cliente reciba un beneficio de seguro. ¿Puede un modelo de predicción entrenado funcionar mejor que un modelo dummy no entrenado? ¿Puede funcionar peor? Explica tu respuesta.
+Task 3: Predict the amount of insurance benefits a new customer is likely to receive using a linear regression model.
 
-Tarea 3: predecir la cantidad de beneficios de seguro que probablemente recibirá un nuevo cliente utilizando un modelo de regresión lineal.
+Task 4: Protect customer personal data without breaking the model from the previous task.
 
-Tarea 4: proteger los datos personales de los clientes sin romper el modelo de la tarea anterior.
+A data transformation algorithm needs to be developed that makes it difficult to recover personal information if the data falls into the wrong hands. This is called data masking or data obfuscation. However, the data must be protected in such a way that the quality of the machine learning models is not affected.
 
-
-Es necesario desarrollar un algoritmo de transformación de datos que dificulte la recuperación de la información personal si los datos caen en manos equivocadas. Esto se denomina enmascaramiento de datos u ofuscación de datos. Pero los datos deben protegerse de tal manera que la calidad de los modelos de machine learning no se vea afectada.
+**Explore the details in the [complete project](https://github.com/alorubio/Proyecto_Sure_Tomorrow_seguros/blob/c0f4a4515872c593ca4408045528bfd7b5003b98/Proyecto_10_Sure_Tomorrow.ipynb).**
